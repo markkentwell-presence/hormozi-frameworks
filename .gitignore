@@ -1,0 +1,7 @@
+# Build scaffolding — not part of the shipped bundle
+research/
+*.sh
+.firecrawl/
+
+# macOS
+.DS_Store
